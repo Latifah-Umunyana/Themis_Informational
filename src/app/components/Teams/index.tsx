@@ -1,10 +1,10 @@
 
 const teamMembers = [
+  { name: 'Latifah Umunyana', role: 'Project Initiator & Software developer', image: 'images/latifa.png' },
   { name: 'Patricia Ainembabazi', role: 'Software developer', image: 'images/patricia.jpg' },
   { name: 'Nancy Nabacwa', role: 'Software developer', image: 'images/nancy.png' },
   { name: 'Pearl Cheshari', role: 'Software developer', image: 'images/pearl.png' },
   { name: 'Lavender Anyango', role: 'Software developer', image: 'images/lavender.jpg' },
-  { name: 'Latifah Umunyana', role: 'Project Initiator & Software developer', image: 'images/latifa.png' },
 ];
 
 function TeamSection() {
